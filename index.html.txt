@@ -1,7 +1,21 @@
 <html>
-	<head>
-		<title>
-			Francisco Barrera Alday
-		</title>
-	</head>
+<head>
+<title>
+Francisco Barrera Alday5434534
+</title>
+</head>
+	
+<body>
+Nombre: Francisco Barrera Alday
+Teléfono: 123456789
+Edad: 21 años
+Redes Sociales: abcde
+Nacionalidad: Mexicano
+
+Ultimos 2 grados de estudio: Universidad
+
+Experiencia laboral: ABCDEF
+Intereses profesionales: ABCDEF
+Software que conoces: ABCDEF
+</body>
 </html>
