@@ -1,21 +1,23 @@
 <html>
 <head>
-<title>
-Francisco Barrera Alday5434534
-</title>
 </head>
 	
 <body>
-Nombre: Francisco Barrera Alday
-Teléfono: 123456789
-Edad: 21 años
-Redes Sociales: abcde
-Nacionalidad: Mexicano
+  <h1>
+    Francisco Barrera Alday
+  </h1>
+  <p>
+    Nombre: Francisco Barrera Alday</br>
+    Teléfono: 123456789</br>
+    Edad: 21 años</br>
+    Redes Sociales: abcde</br>
+    Nacionalidad: Mexicano</br></br>
+    Ultimos 2 grados de estudio: Universidad</br></br>
 
-Ultimos 2 grados de estudio: Universidad
-
-Experiencia laboral: ABCDEF
-Intereses profesionales: ABCDEF
-Software que conoces: ABCDEF
+    Experiencia laboral: ABCDEF</br>
+    Intereses profesionales: ABCDEF</br>
+    Software que conoces: ABCDEF </br>
+    <img src="Imagen.jpg"/>
+  </p>
 </body>
 </html>
