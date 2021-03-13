@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
+
+.pixeleado{
+    font-family: 'DotGothic16', sans-serif;
+    }
+
+:root{
+    --Variable1: #9b9b9b
+}
+
+body{
+    background-color: var(--Variable1);
+}
