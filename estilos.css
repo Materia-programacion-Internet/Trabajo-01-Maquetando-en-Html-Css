@@ -3,11 +3,20 @@
 .pixeleado{
     font-family: 'DotGothic16', sans-serif;
     }
-
+.group{
+    width: 355px;
+    border-style: double;
+    }
 :root{
-    --Variable1: #9b9b9b
+    --Variable1: #BEBEBE;
 }
 
 body{
     background-color: var(--Variable1);
+}
+div{
+    width: 350px;
+    border-width: 3px;
+    border-style: solid;
+    border-color:black;
 }
